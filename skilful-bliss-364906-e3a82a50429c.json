@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skilful-bliss-364906",
+  "private_key_id": "e3a82a50429c7e6a8135f4162b7190e078b68f59",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCBIjwpV4L6/rUf\ngUr87zRLJcO7wik7YMD5IMLfKOkZ9ziNUbLp2O6PPmaT0NMkxY5BsjzjCpBhjolf\nsrInGbDRAg/SzrGgiisCbedXZ+CUf5lzWgyWt29LwvZxK6p+z5Vtel7B4gkDts48\ncGskm7IYFxy/fNspwjOavCAVWrBLk0a8URvb2nKB4aalbInvScJZIj1GR1RLfmum\nPI0j58MFzpL1uWyht8M5ayxBCnAAf2DKgZq0NcbswzY/Vb15ScV+KmR8Qoj3cxQn\n/KsK5RsVWKATE/EuYyCxj+F0GuKFtgdXEJDu+Zw9gtsmDpjz1Iz7PztvxfQtywMr\nLkglFgVTAgMBAAECggEAPo4ajb5mZXdov1PPQzsPXo3zRSvX9Hs40BZ2QEudrCXu\nH8the9XKLtsALv/8oLYQ5TNWOnf+HDxDwPecRMO1u3IfvzPAqW/1SM57wIRCLz2m\n1NHdAk/nGtDduFH6XEbr8KZUa+C3FDUEsBOXW5sOyYu8sehmdNKuU/lpI18Uwu7r\nr1klv6ITJURPW4FZG3Jq4FbbByfJ/luuRmZzKf2T9AuTPB0tDRwKl2tKlVtBxa9g\nRGYQ5LuDtM/HjHpnto1Z3ImUfUSkV3S0htwJHxz3JBqyleNT+B2K87Zz/bFlzZpq\nQnsOjmko/EgpQ2hLrPEfbH9DIWhW5jcyOIuUogrJ5QKBgQC2c5cf2FX2DYrkwAji\nL+12hSISRcHx7zUmfrrwI0HmHuvnLB5Xxa2ceGeE1Hiom/lEAPEh0PaqD4zyqMX8\nHaEjeqc5wL53UPphkN61I1JfOKIC4bKGqvK8+ImaEqk9OVfqXwm+fl+YBtQlmEkb\neyLTm7SaCxavyGnsPKzyUuDWBwKBgQC1MGuIWdDd2iy/unoen4ZvIfU7EZfcXrtr\n+uNw0YCAIw5VVPIr3eXHXZhAILpxVYY60XCYJui/baCrMhKv2ST1ZHxr5mCGCjXJ\nKO1UODeBAlwUAG5UxCtw4nK5k5i30QElCY//Af25WvrNHoNY+Tvuhg1J1DmZqhWp\ntTgB2HQjVQKBgH5Wmk4l2phwFj6CL2SYtYE9fTNT9JGYB6DpXn8MmwRDYy0Hotc6\nfhZ8VYpoKkjvAHMzh8XX0gY+kGYzsiz7Q2qy8vsN2ZX7j/VhgKXDmLVxHNaL/Lg9\nxapPG9GBnIlVnOgg+Tlcfsth5yNFSVJrONl4111X0lTUnWxFM6j09NWfAoGALxzt\nCSJZliZR9nS1plrSqPkKfBaCB1I2p8gv9bj0Ed2Lr5KL+e4T/ngOy7X25NtZMNge\nz+FmKciGu50kkMcEvi4n0CKyPIhRHgJfW8PWYtxLNwQ5rB7qMMshC7IeRsW453mK\nEMPixpyqlEV3393GwKnosKbXZ2Z7hYpSiuBOqpUCgYAK+9x86XsJammFGVoo/tkS\nZ97cSBAUD3grNugChOUejIcX850FI5OCkzkiHHYAYhrTOJQRezV7g2H1OSpcQRtC\nQ5vMsyyANhSwj8AZ/oaEUIqE/zynGt8uxDHsJdvgy+ruXK52T6hvmSB6qE+o438r\nxtorjQ+bZbBIKCJyZ7UNxA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "face-identify-charana@skilful-bliss-364906.iam.gserviceaccount.com",
+  "client_id": "108095107694679519142",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/face-identify-charana%40skilful-bliss-364906.iam.gserviceaccount.com"
+}
