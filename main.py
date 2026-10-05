@@ -1,3 +1,4 @@
+import os
 import face_recognition
 import cv2
 import numpy as np
@@ -13,7 +14,7 @@ class Person:
         self.income = income
         self.married = married
 
-gc = gspread.service_account(filename='skilful-bliss-364906-e3a82a50429c.json')
+gc = gspread.service_account(filename=os.environ.get('GOOGLE_APPLICATION_CREDENTIALS', 'service-account.json'))
 
 #Load all data! (Preload)
 sh = gc.open("Face Identify Charana")

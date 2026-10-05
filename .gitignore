@@ -1,0 +1,4 @@
+# Google service account key files
+service-account.json
+*-[0-9a-f][0-9a-f][0-9a-f][0-9a-f]*.json
+.env
